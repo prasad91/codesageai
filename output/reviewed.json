@@ -1,0 +1,8 @@
+[
+  {
+    "file": "src/main/java/com/weird/uglyboot/ControllerThing.java",
+    "original": "public String xyz(@RequestParam(required = false) String abc) {\n        if (abc == null)\n            return \"nope\";\n        else\n            return \"meh \" + abc;\n    }",
+    "suggested": "// [MOCKED] Refactored version of:\npublic String xyz(@RequestParam(required = false) String abc) {\n        if (abc == null)\n            return \"nope\";\n        else\n            return \"meh \" + abc;\n    }",
+    "edited": null
+  }
+]
