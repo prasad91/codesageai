@@ -124,4 +124,4 @@ MIT — use, fork, and improve freely.
 
 ## 🙌 Built For
 **Prasad Vavilala**  
-[Prasad Vavilala](mailto:vavilala.prasad@gmail.com)
+by [Prasad Vavilala](mailto:vavilala.prasad@gmail.com)
