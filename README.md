@@ -108,14 +108,6 @@ The agent will return fake suggestions like:
 
 ---
 
-## 📌 Next Enhancements (Stretch Goals)
-
-- [ ] Auto-commit approved refactors back to the PR branch
-- [ ] Memory-based agent using feedback from `reviewed.json`
-- [ ] Slack/Email notifications for pending HITL reviews
-
----
-
 ## 📄 License
 
 MIT — use, fork, and improve freely.
