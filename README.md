@@ -123,5 +123,5 @@ MIT — use, fork, and improve freely.
 ---
 
 ## 🙌 Built For
-**[Company Hackathon Name]**  
-by [Your Name or Team Name]
+**Prasad Vavilala**  
+by Prasad Vavilala
